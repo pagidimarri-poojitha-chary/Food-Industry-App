@@ -1,4 +1,4 @@
-# Food_Project
+# Food-Industry-App
 
 The Food Project is a web application built with Django that allows users to order food online from local restaurants. The project includes a menu of available dishes from the restaurant.
 
