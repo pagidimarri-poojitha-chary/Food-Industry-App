@@ -10,23 +10,16 @@ Overall, the Food Project is a powerful and feature-rich solution for anyone loo
 
 
 ## admin login:
-username: "soufiane"
-password: "s m"
-
-
-
-
-## Demo
-https://soufianemjr.pythonanywhere.com/
-
+username: "poojitha"
+password: "Sai Sathya"
 
 
 ## ✨ How to use it
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/Soufiane-Majdar/Food_Project.git
-$ cd Food_Project
+$ git clone https://github.com/pagidimarri-poojitha-chary/Food-Industry-App.git
+$ cd Food-Industry-App
 $
 $ # Virtualenv modules installation (Linux)
 $ virtualenv env
